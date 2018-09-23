@@ -1,5 +1,5 @@
-# DataPlay
-CookbookMining
+# CookbookMining
+
 A project to use text mining in R to analyse and compare several cookbooks.
 
 See the TextMiningCookingBooks.md file for the code and intermediate steps in the analysis process.
