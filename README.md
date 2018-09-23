@@ -8,4 +8,4 @@ The final data visual is made with R + Illustrator.
 
 The code is not very "clean" - this is my learning process and always a work in progress. 
 
-![datavizv4-01](https://user-images.githubusercontent.com/22810662/45933189-cdd76f80-bf7f-11e8-83c6-b8baf0403aa2.png)
+![datavizv5-01](https://user-images.githubusercontent.com/22810662/45933572-9cfb3880-bf87-11e8-944f-bb36ef302c25.png)
