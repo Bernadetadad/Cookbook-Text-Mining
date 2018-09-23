@@ -2,7 +2,7 @@
 
 A personal project to use text mining in R to analyse and compare several cookbooks.
 
-See the TextMiningCookingBooks.md file for the code and intermediate steps in the analysis process.
+See the [TextMiningCookingBooks](TextMiningCookingBooks.md) file for the code and intermediate steps in the analysis process.
 
 The final data visual is made with R + Illustrator. 
 
