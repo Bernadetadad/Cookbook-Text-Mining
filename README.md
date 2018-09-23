@@ -1,4 +1,4 @@
-# CookbookMining
+# Cookbook Text Mining
 
 A personal project to use text mining in R to analyse and compare several cookbooks.
 
